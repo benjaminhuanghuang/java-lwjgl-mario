@@ -1,6 +1,6 @@
 .DS_Store
 .idea/*
-build/*
+build
 gradle/*
 .gradle/*
 uiPreview.svg
