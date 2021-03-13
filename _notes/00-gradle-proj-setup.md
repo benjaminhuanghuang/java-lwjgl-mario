@@ -9,5 +9,5 @@
 
 2. Get dependencies
 Go to https://www.lwjgl.org/customize
-select the library needed and createe gradel dependencies
+select the library needed and create gradle dependencies
 
